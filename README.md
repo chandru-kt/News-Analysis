@@ -87,6 +87,7 @@ app.add_middleware(
 ## Output
 
 ![ezgif-392e51f5e5eec6](https://github.com/user-attachments/assets/4261c71a-855a-422c-8c8e-ebdeb08b9ef0)
+   -   For [audio output](https://drive.google.com/file/d/1zjbPgLUgqnzYcrosq6EqM8ntdtsfqvzk/view?usp=drive_link)
 
 ## Usage
 1. Open the frontend: `http://localhost:3000`
