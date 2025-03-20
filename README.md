@@ -43,16 +43,7 @@ This project is a **News Summarization & Sentiment Analysis** tool that fetches 
 - Pip
 
 #### Steps:
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-repo/news-sentiment-analysis.git
-   cd news-sentiment-analysis/backend
-   ```
-2. Install dependencies:
-   ```sh
-   pip install -r requirements.txt
-   ```
-3. Run the server:
+1. Run the server:
    ```sh
    uvicorn main:app --host 127.0.0.1 --port 8000 --reload
    ```
@@ -102,27 +93,6 @@ app.add_middleware(
 
 ---
 
-## Project Structure
-```
-news-sentiment-analysis/
-│── backend/
-│   ├── main.py  # FastAPI backend
-│   ├── requirements.txt
-│   ├── ...
-│
-│── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   │   ├── PieChart.js  # Sentiment distribution visualization
-│   │   │   ├── NewsList.js  # Displays summarized news
-│   │   ├── App.js  # Main application
-│   ├── package.json
-│   ├── ...
-│
-└── README.md
-```
-
----
 
 ## Future Improvements
 - Add more languages for summarization and TTS.
@@ -131,8 +101,6 @@ news-sentiment-analysis/
 
 ---
 
-## Contributors
-- **Your Name** (@your-github-handle)
 
 ---
 
